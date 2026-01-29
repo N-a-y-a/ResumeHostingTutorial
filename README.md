@@ -1,7 +1,7 @@
 # Hosting a Resume
 
 ## Purpose
-The steps below describe how I hosted [my resume](https://n-a-y-a.github.io/) on GitHub Pages, and how you can do the same. I also describe the general principles of current Technical Writing, as explained in Andrew Etter's book *Modern Technical Writing*.
+The steps below describe how I hosted [my resume](https://n-a-y-a.github.io/ResumeHostingTutorial) on GitHub Pages, and how you can do the same. I also describe the general principles of current Technical Writing, as explained in Andrew Etter's book *Modern Technical Writing*.
 <br><br>
 
 ## Prerequisites 
